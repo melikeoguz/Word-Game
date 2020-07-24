@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/scene"
+    android:onClick="clickStartBtn">
+
+    <Button
+        android:id="@+id/exitButton"
+        android:layout_width="352dp"
+        android:layout_height="65dp"
+        android:background="@mipmap/stone"
+        android:onClick="clickExitBtn"
+        android:text="@string/exit"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.406"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/scoreButton"
+        app:layout_constraintVertical_bias="0.073" />
+
+    <Button
+        android:id="@+id/scoreButton"
+        android:layout_width="352dp"
+        android:layout_height="65dp"
+        android:background="@mipmap/stone"
+        android:onClick="clickHighScoreBtn"
+        android:text="@string/high_scoreE"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.403"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/lastGameButon"
+        app:layout_constraintVertical_bias="0.059" />
+
+    <TextView
+        android:id="@+id/hello"
+        android:layout_width="105dp"
+        android:layout_height="79dp"
+        android:layout_marginStart="72dp"
+        android:layout_marginTop="124dp"
+        android:layout_marginEnd="72dp"
+        android:text="@string/hello"
+        android:textColor="@color/design_default_color_background"
+        android:textSize="36sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.561"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/nameView"
+        android:layout_width="171dp"
+        android:layout_height="59dp"
+        android:layout_marginTop="198dp"
+        android:layout_marginEnd="82dp"
+        android:layout_marginBottom="33dp"
+        android:textColor="@color/design_default_color_surface"
+        android:textSize="36sp"
+        android:textStyle="italic"
+        app:layout_constraintBottom_toTopOf="@+id/startButon"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/startButon"
+        android:layout_width="352dp"
+        android:layout_height="65dp"
+        android:layout_marginBottom="417dp"
+        android:background="@mipmap/stone"
+        android:onClick="clickStartBtn"
+        android:text="@string/start"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.423"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/nameView" />
+
+    <Button
+        android:id="@+id/lastGameButon"
+        android:layout_width="352dp"
+        android:layout_height="65dp"
+        android:layout_marginTop="12dp"
+        android:background="@mipmap/stone"
+        android:onClick="clickLastGameBtn"
+        android:text="@string/last_game"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.403"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/startButon" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
