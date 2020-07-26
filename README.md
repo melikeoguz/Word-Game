@@ -159,34 +159,31 @@ Android Studio 3.6.3’te proje geliştirmek,
 
     6- Ekran Görüntüleri
     
-   
-    
     
 <img src="https://static.wixstatic.com/media/9e686e_96a8eb37dab9496795dd0c9b0b19e48f~mv2.jpg"
      style="float: left; height:50px; width:30px" />
 
-<img src="https://static.wixstatic.com/media/9e686e_60127d1e28f1479fbfb0da862e1f9e12~mv2.jpg"
+<img src="https://static.wixstatic.com/media/9e686e_c403842fa78548bc8d59e3cfaf91f564~mv2.jpg"
      style="float: left; height:50px; width:30px" />
 
-<img src="https://static.wixstatic.com/media/9e686e_9a0344d047da4fbe919365a016d8755e~mv2.jpg"
+<img src="https://static.wixstatic.com/media/9e686e_83b74f8009b249aa99a69b3dbc8d17a9~mv2.jpg"
      style="float: left;margin-left:15px; height:500px; width:300px" />
-<img src="https://static.wixstatic.com/media/9e686e_72621f8e52864201b988e1be1d24af3e~mv2.jpg"
+     
+<img src="https://static.wixstatic.com/media/9e686e_ec487a9dd2934758b248919fdd4ccb3f~mv2.jpg"
      style="float: left; margin-top:45px; height:500px; width:300px" />     
      
-<img src="https://static.wixstatic.com/media/9e686e_24f1a97f749647a88725203f44c6597d~mv2.jpg"
+<img src="https://static.wixstatic.com/media/9e686e_0392f67c152f4af5bd4c52b1dbfae0f9~mv2.jpg"
      style="float: left;margin-top:45px; margin-left:15px;  height:500px; width:300px" />
 
-<img src="https://static.wixstatic.com/media/9e686e_2f167eea6a8549acb6596df3041ccde3~mv2.jpg"
+<img src="https://static.wixstatic.com/media/9e686e_4252d52f756546babf6e72c7fe633b52~mv2.jpg"
      style="float: left;margin-top:45px; height:500px; width:300px" />
      
-<img src="https://static.wixstatic.com/media/9e686e_8cb8845caddd4f779b6053e900744b20~mv2.jpg"
+<img src="https://static.wixstatic.com/media/9e686e_e04c36ea0766470189b7c79f0ccaa916~mv2.jpg"
      style="float: left; margin-top:45px; margin-left:15px; height:500px; width:300px" />
 
-<img src="https://static.wixstatic.com/media/9e686e_c236a166e5ae43698484df246ad6c929~mv2.jpg"
+<img src="https://static.wixstatic.com/media/9e686e_a651ad22ce7a4bdea58b4b8b4f826e99~mv2.jpg"
      style="float: left; margin-top:45px; height:500px; width:300px" />
      
-<img src="https://static.wixstatic.com/media/9e686e_b16e6f98e082415d9140ce446f0f7d92~mv2.jpg"
-     style="float: left;margin-top:45px; margin-left:15px;  height:500px; width:300px" />
 
 </br>
 
