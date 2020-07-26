@@ -78,7 +78,7 @@ want to exit ?”** sorusu sorulur ve kullanıcı
 uygulamadan çıkış yapabilir.
 
 
-    2- Temel Bilgiler
+    <h3>2- Temel Bilgiler</h3>
 
 * Program, Java programlama dilinde ve
 **“Android Studio 3.6.3’te”** yazılmıştır.
@@ -92,7 +92,7 @@ faydalanılmıştır.
 
  
 
-    3- Tasarım
+    <h3>3- Tasarım</h3>
 
 * Kelime Oyunu Uygulaması Projesi
 aşağıdaki başlıklar altında geliştirilmiştir.
@@ -131,7 +131,7 @@ puanlar listelenmektedir.
 sayfaya geçiş yapılmasını sağlar.
 
 
-    4- Karşılaşılan Sorunlar ve Çözümleri
+    <h3>4- Karşılaşılan Sorunlar ve Çözümleri</h3>
     
 <h5>4.1- Harflerin Ekrandan Seçimi</h5>
 Java’da bulunan onClick methodu ile harfleri tek tek
@@ -144,7 +144,7 @@ mevcut durumu bir data modele kaydedip
 devam edilmek istendiğinde geri yüklenir.
 
 
-    5- Kazanımlar
+  <h3>5- Kazanımlar</h3>
     
  * Java ArrayList sınıfını iyice anlayıp
 tanımak ,
