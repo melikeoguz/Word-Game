@@ -160,9 +160,6 @@ Android Studio 3.6.3’te proje geliştirmek,
 
  <h3><ins>6- Ekran Görüntüleri</ins></h3>
 
-<code>Harfleri Karıştırma Özelliği</code></br>
-
-![](https://static.wixstatic.com/media/9e686e_d3e2f8e277ee40df9250abb75e21994d~mv2.gif) 
 
 <code>Login Ekranı</code></br>    
 <img src="https://static.wixstatic.com/media/9e686e_96a8eb37dab9496795dd0c9b0b19e48f~mv2.jpg"
@@ -172,11 +169,11 @@ Android Studio 3.6.3’te proje geliştirmek,
 <img src="https://static.wixstatic.com/media/9e686e_c403842fa78548bc8d59e3cfaf91f564~mv2.jpg"
      style="float: right; height:50px; width:30px" />
      
-<code>1. Seviye Skoru</code></br>   
+<code>1. Seviye Oyun Ekranı</code></br>   
 <img src="https://static.wixstatic.com/media/9e686e_ec487a9dd2934758b248919fdd4ccb3f~mv2.jpg"
      style="float: left; margin-top:45px; height:500px; width:300px" />       
 
-<code>1. Seviye Oyun Ekranı</code></br>   
+<code>1. Seviye Oyun Skoru</code></br>   
 <img src="https://static.wixstatic.com/media/9e686e_83b74f8009b249aa99a69b3dbc8d17a9~mv2.jpg"
      style="float: left;margin-left:15px; height:500px; width:300px" />   
      
@@ -195,6 +192,9 @@ Android Studio 3.6.3’te proje geliştirmek,
 <code>3. Seviye Oyun Ekranı</code></br>   
 <img src="https://static.wixstatic.com/media/9e686e_4252d52f756546babf6e72c7fe633b52~mv2.jpg"
      style="float: left;margin-top:45px; height:500px; width:300px" />
+
+<code>Harfleri Karıştırma Özelliği</code></br>
+![](https://static.wixstatic.com/media/9e686e_d3e2f8e277ee40df9250abb75e21994d~mv2.gif) 
 
 </br>
 
