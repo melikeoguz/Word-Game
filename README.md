@@ -159,9 +159,10 @@ Android Studio 3.6.3’te proje geliştirmek,
 
 
  <h3><ins>6- Ekran Görüntüleri</ins></h3>
-    
-![](https://static.wixstatic.com/media/9e686e_d3e2f8e277ee40df9250abb75e21994d~mv2.gif) 
+
 <code>Harfleri Karıştırma Özelliği</code>
+![](https://static.wixstatic.com/media/9e686e_d3e2f8e277ee40df9250abb75e21994d~mv2.gif) 
+
     
 <img src="https://static.wixstatic.com/media/9e686e_96a8eb37dab9496795dd0c9b0b19e48f~mv2.jpg"
      style="float: left; height:50px; width:30px" />
