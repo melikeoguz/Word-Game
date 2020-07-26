@@ -12,9 +12,9 @@ Kocaeli Üniversitesi Bilgisayar Mühendisliği</i>
 
 **<i>“Kelime Oyunu Projesi" adlı program,
 userları içinde barındıran bir sistem ile
-çalışmaktadır.Programa üye olan kullanıcilar
-kendileri arasinda oyundan aldıkları puana
-gore siralanmaktadir.</i>**
+çalışmaktadır.Programa üye olan kullanıcılar
+kendileri arasında oyundan aldıkları puana
+göre sıralanmaktadır.</i>**
 
     GİRİŞ
 
