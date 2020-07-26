@@ -162,35 +162,35 @@ Android Studio 3.6.3’te proje geliştirmek,
 
 
 <code>Login Ekranı</code></br>    
-<img src="https://static.wixstatic.com/media/9e686e_96a8eb37dab9496795dd0c9b0b19e48f~mv2.jpg"
+<img src="https://hayalindekiyasam.files.wordpress.com/2020/07/1-a.jpg"
      style="float: left; height:50px; width:30px" />
      
 <code>Oyun Menü Ekranı</code></br>    
-<img src="https://static.wixstatic.com/media/9e686e_c403842fa78548bc8d59e3cfaf91f564~mv2.jpg"
+<img src="https://hayalindekiyasam.files.wordpress.com/2020/07/2-a.jpg"
      style="float: right; height:50px; width:30px" />
      
 <code>1. Seviye Oyun Ekranı</code></br>   
-<img src="https://static.wixstatic.com/media/9e686e_ec487a9dd2934758b248919fdd4ccb3f~mv2.jpg"
+<img src="https://hayalindekiyasam.files.wordpress.com/2020/07/4-a.jpg"
      style="float: left; margin-top:45px; height:500px; width:300px" />       
 
 <code>1. Seviye Oyun Skoru</code></br>   
-<img src="https://static.wixstatic.com/media/9e686e_83b74f8009b249aa99a69b3dbc8d17a9~mv2.jpg"
+<img src="https://hayalindekiyasam.files.wordpress.com/2020/07/3-a.jpg"
      style="float: left;margin-left:15px; height:500px; width:300px" />   
      
 <code>Pause Ekranı</code></br>        
-<img src="https://static.wixstatic.com/media/9e686e_0392f67c152f4af5bd4c52b1dbfae0f9~mv2.jpg"
+<img src="https://hayalindekiyasam.files.wordpress.com/2020/07/5-a.jpg"
      style="float: left;margin-top:45px; margin-left:15px;  height:500px; width:300px" />
 
 <code>2. Seviye Oyun Ekranı</code></br>   
-<img src="https://static.wixstatic.com/media/9e686e_e04c36ea0766470189b7c79f0ccaa916~mv2.jpg"
+<img src="https://hayalindekiyasam.files.wordpress.com/2020/07/7-a.jpg"
      style="float: left; margin-top:45px; margin-left:15px; height:500px; width:300px" />
 
 <code>2. Seviye Oyun Skoru</code></br>   
-<img src="https://static.wixstatic.com/media/9e686e_a651ad22ce7a4bdea58b4b8b4f826e99~mv2.jpg"
+<img src="https://hayalindekiyasam.files.wordpress.com/2020/07/8-a.jpg"
      style="float: left; margin-top:45px; height:500px; width:300px" />
 
 <code>3. Seviye Oyun Ekranı</code></br>   
-<img src="https://static.wixstatic.com/media/9e686e_4252d52f756546babf6e72c7fe633b52~mv2.jpg"
+<img src="https://hayalindekiyasam.files.wordpress.com/2020/07/6-a.jpg"
      style="float: left;margin-top:45px; height:500px; width:300px" />
 
 <code>Harfleri Karıştırma Özelliği</code></br></br>
