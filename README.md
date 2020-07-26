@@ -194,7 +194,7 @@ Android Studio 3.6.3’te proje geliştirmek,
      style="float: left;margin-top:45px; height:500px; width:300px" />
 
 <code>Harfleri Karıştırma Özelliği</code></br></br>
-![](https://static.wixstatic.com/media/9e686e_d3e2f8e277ee40df9250abb75e21994d~mv2.gif) 
+![](https://hayalindekiyasam.files.wordpress.com/2020/07/mixing-letter.gif) 
 
 </br>
 
