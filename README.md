@@ -153,8 +153,8 @@ Android Studio 3.6.3’te proje geliştirmek,
 * Mobil platform için geliştirme yapmak,
 * Shared Preference kullanımı ,
 * Dinamik bir sistem oluşturmak,
-* Git sürümleri
-* GitHub kullanımı,
+* Git sürümleri,
+* GitHub kullanımı
 
 
 
