@@ -158,7 +158,7 @@ Android Studio 3.6.3’te proje geliştirmek,
 
 
 
-    6- Ekran Görüntüleri
+    <h5>6- Ekran Görüntüleri</h5>
     
     
 <img src="https://static.wixstatic.com/media/9e686e_96a8eb37dab9496795dd0c9b0b19e48f~mv2.jpg"
