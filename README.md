@@ -92,7 +92,7 @@ faydalanılmıştır.
 
  
 
- <h3><in>3- Tasarım</ins></h3>
+ <h3><ins>3- Tasarım</ins></h3>
 
 * Kelime Oyunu Uygulaması Projesi
 aşağıdaki başlıklar altında geliştirilmiştir.
