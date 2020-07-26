@@ -92,7 +92,7 @@ faydalanılmıştır.
 
  
 
- <h3>3- Tasarım</h3>
+ <h3><in>3- Tasarım</ins></h3>
 
 * Kelime Oyunu Uygulaması Projesi
 aşağıdaki başlıklar altında geliştirilmiştir.
@@ -131,7 +131,7 @@ puanlar listelenmektedir.
 sayfaya geçiş yapılmasını sağlar.
 
 
- <h3>4- Karşılaşılan Sorunlar ve Çözümleri</h3>
+ <h3><ins>4- Karşılaşılan Sorunlar ve Çözümleri</ins></h3>
     
 <h5>4.1- Harflerin Ekrandan Seçimi</h5>
 Java’da bulunan onClick methodu ile harfleri tek tek
@@ -144,7 +144,7 @@ mevcut durumu bir data modele kaydedip
 devam edilmek istendiğinde geri yüklenir.
 
 
- <h3>5- Kazanımlar</h3>
+ <h3><ins>5- Kazanımlar</ins></h3>
     
  * Java ArrayList sınıfını iyice anlayıp
 tanımak ,
@@ -158,7 +158,7 @@ Android Studio 3.6.3’te proje geliştirmek,
 
 
 
- <h3>6- Ekran Görüntüleri</h3>
+ <h3><ins>6- Ekran Görüntüleri</ins></h3>
     
     
 <img src="https://static.wixstatic.com/media/9e686e_96a8eb37dab9496795dd0c9b0b19e48f~mv2.jpg"
@@ -188,7 +188,7 @@ Android Studio 3.6.3’te proje geliştirmek,
 
 </br>
 
- <h3>7- Pseudo Kod</h3>
+ <h3><ins>7- Pseudo Kod</ins></h3>
 
 <b>1-</b> Word Game uygulamasını cihaz üzerinden
 aç.
