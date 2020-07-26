@@ -78,7 +78,7 @@ want to exit ?”** sorusu sorulur ve kullanıcı
 uygulamadan çıkış yapabilir.
 
 
- <h3><u>2- Temel Bilgiler</u></h3>
+ <h3><ins>2- Temel Bilgiler</ins></h3>
 
 * Program, Java programlama dilinde ve
 **“Android Studio 3.6.3’te”** yazılmıştır.
