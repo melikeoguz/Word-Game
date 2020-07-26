@@ -158,6 +158,12 @@ Android Studio 3.6.3’te proje geliştirmek,
 
 
     6- Ekran Görüntüleri
+    
+   
+    
+    
+<img src="https://static.wixstatic.com/media/9e686e_96a8eb37dab9496795dd0c9b0b19e48f~mv2.jpg"
+     style="float: left; height:50px; width:30px" />
 
 <img src="https://static.wixstatic.com/media/9e686e_60127d1e28f1479fbfb0da862e1f9e12~mv2.jpg"
      style="float: left; height:50px; width:30px" />
