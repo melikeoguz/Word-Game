@@ -160,7 +160,9 @@ Android Studio 3.6.3’te proje geliştirmek,
 
  <h3><ins>6- Ekran Görüntüleri</ins></h3>
 
-<code>Harfleri Karıştırma Özelliği</code>
+<code>Harfleri Karıştırma Özelliği</code></br>
+
+
 ![](https://static.wixstatic.com/media/9e686e_d3e2f8e277ee40df9250abb75e21994d~mv2.gif) 
 
     
