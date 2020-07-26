@@ -164,7 +164,7 @@ Android Studio 3.6.3’te proje geliştirmek,
      style="float: left; height:50px; width:30px" />
 
 <img src="https://static.wixstatic.com/media/9e686e_c403842fa78548bc8d59e3cfaf91f564~mv2.jpg"
-     style="float: left; height:50px; width:30px" />
+     style="float: right; height:50px; width:30px" />
 
 <img src="https://static.wixstatic.com/media/9e686e_83b74f8009b249aa99a69b3dbc8d17a9~mv2.jpg"
      style="float: left;margin-left:15px; height:500px; width:300px" />
