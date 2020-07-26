@@ -3,10 +3,10 @@
 
      Web Geliştirme Projesi 
 
-<i>Şeyma Nur MUTLU ve Melike OĞUZ
+<i><u>Şeyma Nur MUTLU ve Melike OĞUZ
 
 
-Kocaeli Üniversitesi Bilgisayar Mühendisliği</i>
+Kocaeli Üniversitesi Bilgisayar Mühendisliği</u></i>
 
 ### ÖZET
 
