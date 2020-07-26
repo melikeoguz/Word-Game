@@ -3,10 +3,10 @@
 
      Web Geliştirme Projesi 
 
-<i><u>Şeyma Nur MUTLU ve Melike OĞUZ
+<i>Şeyma Nur MUTLU ve Melike OĞUZ
 
 
-Kocaeli Üniversitesi Bilgisayar Mühendisliği</u></i>
+Kocaeli Üniversitesi Bilgisayar Mühendisliği</i>
 
 ### ÖZET
 
@@ -27,7 +27,7 @@ oynayabilmektedir. Sistem dinamik bir
 * Öncelikle kullanıcı login sayfasını
 kullanarak sisteme giriş yapmalıdır. Daha
 sonra her kullanıcı için aynı gelen
-StartActivity ekranında kullanıcının
+<ins>StartActivity</ins> ekranında kullanıcının
 seçebileceği 4 adet eylem yer almaktadır;
 <b>Start, Last Game, High Score ve Exit</b>
 
